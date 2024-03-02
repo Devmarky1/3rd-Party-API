@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+.status-red{
+  background-color:rgb(245, 35, 35)
+}
+
+.status-orange {
+  background-color: orange;
+}
+
+.status-green {
+  background-color: rgb(40, 112, 40);
+}
